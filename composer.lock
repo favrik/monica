@@ -1816,20 +1816,20 @@
         },
         {
             "name": "jenssegers/date",
-            "version": "v3.4.0",
+            "version": "v3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jenssegers/date.git",
-                "reference": "3f5f94f28bd5108fab011869434209101d4189ae"
+                "reference": "58393b0544fc2525b3fcd02aa4c989857107e05a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jenssegers/date/zipball/3f5f94f28bd5108fab011869434209101d4189ae",
-                "reference": "3f5f94f28bd5108fab011869434209101d4189ae",
+                "url": "https://api.github.com/repos/jenssegers/date/zipball/58393b0544fc2525b3fcd02aa4c989857107e05a",
+                "reference": "58393b0544fc2525b3fcd02aa4c989857107e05a",
                 "shasum": ""
             },
             "require": {
-                "nesbot/carbon": "^1.0",
+                "nesbot/carbon": "^1.0|^2.0",
                 "php": ">=5.6",
                 "symfony/translation": "^2.7|^3.0|^4.0"
             },
@@ -1877,7 +1877,7 @@
                 "time",
                 "translation"
             ],
-            "time": "2018-05-16T11:53:55+00:00"
+            "time": "2019-03-10T08:50:58+00:00"
         },
         {
             "name": "lahaxearnaud/laravel-u2f",
